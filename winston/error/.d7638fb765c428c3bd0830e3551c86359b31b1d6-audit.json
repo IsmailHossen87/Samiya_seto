@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "C:\\ISMAIL\\SamiyaSeto\\winston\\error\\.d7638fb765c428c3bd0830e3551c86359b31b1d6-audit.json",
+    "files": [
+        {
+            "date": 1771039166958,
+            "name": "C:\\ISMAIL\\SamiyaSeto\\winston\\error\\14-02-2026-09-error.log",
+            "hash": "0cb7cbab5ca5fe6c7eabaca412128e0130dca24594ba50550f8d87d06db99e54"
+        },
+        {
+            "date": 1771042215901,
+            "name": "C:\\ISMAIL\\SamiyaSeto\\winston\\error\\14-02-2026-10-error.log",
+            "hash": "58dfcf039f37ae06cb43889aa945fab299d5d41f0879b43409e0919bae7673cf"
+        },
+        {
+            "date": 1771046593504,
+            "name": "C:\\ISMAIL\\SamiyaSeto\\winston\\error\\14-02-2026-11-error.log",
+            "hash": "237ff0025e4cd93dbfec4aa0b45d8cd69a997f36d2f72a81666329036f3bd55a"
+        },
+        {
+            "date": 1771384695906,
+            "name": "C:\\ISMAIL\\SamiyaSeto\\winston\\error\\18-02-2026-09-error.log",
+            "hash": "61b864690c140bac50e24b31aa2e8893646f7d59b0b02bfc58c53fee1712cc9a"
+        },
+        {
+            "date": 1771387379270,
+            "name": "C:\\ISMAIL\\SamiyaSeto\\winston\\error\\18-02-2026-10-error.log",
+            "hash": "f682cb52a8234e4446e7803a68143511850498e7eb2ac450f56eaae1ccb6ae8e"
+        },
+        {
+            "date": 1771391384198,
+            "name": "C:\\ISMAIL\\SamiyaSeto\\winston\\error\\18-02-2026-11-error.log",
+            "hash": "286c978e00c756997c2f5cd4d376dddda5f8410eb33a59c80f29dc86eb3b4ab2"
+        },
+        {
+            "date": 1771396178274,
+            "name": "C:\\ISMAIL\\SamiyaSeto\\winston\\error\\18-02-2026-12-error.log",
+            "hash": "33347126d2320c1e39a00c7749f39dd897b0d12b60b1881c60c2473b0b03f349"
+        }
+    ],
+    "hashType": "sha256"
+}
