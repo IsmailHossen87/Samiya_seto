@@ -7,6 +7,7 @@ const categorySchema = new Schema<IContent>({
         type: Schema.Types.ObjectId,
         ref: 'User'
     },
+    // client_harai gese
     _categoryId: {
         type: Schema.Types.ObjectId,
         ref: 'Category',
